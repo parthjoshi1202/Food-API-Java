@@ -1,0 +1,43 @@
+.root
+{
+    -fx-background-color: linear-gradient(from 10px 10px to 400px 400px,  #f7eed7,#e67d32 );
+    -fx-font-size: 15pt;
+    -fx-text-fill: black;
+    -fx-font-family: "Trebuchet MS";
+}
+
+.label
+{
+    -fx-font-size: 16pt;
+    -fx-font-family: "Trebuchet MS";
+    -fx-text-fill: black;
+}
+
+.button
+{
+    -fx-font-family: 'Verdana', sans-serif ;
+    -fx-text-fill: black;
+}
+
+.list-view
+{
+    -fx-background-color: linear-gradient(from 10px 10px to 400px 400px,  #f7eed7,#e67d32 );
+}
+
+.text-area
+{
+    -fx-font-size: 16pt;
+    -fx-text-fill: black;
+    -fx-font-family: "Trebuchet MS";
+}
+
+.text-field
+{
+    -fx-font-size: 15pt;
+}
+
+.web-view {
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-border-width: 2;
+}
